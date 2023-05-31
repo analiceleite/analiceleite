@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Analice Leite
 
 - 🔭 Trabalho como Backoffice Comercial
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript & Phyton
 - 😄 Pronomes: Ela/dela
 
 <div>
