@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Analice Leite
 
-- 🔭 Trabalho como Backoffice Comercial
+- 🔭 Trabalho com Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript & Phyton
 - 😄 Pronomes: Ela/dela
 
