@@ -38,3 +38,5 @@
   <div align="right">Made with 💙 by <a href=https://github.com/analiceleite"e">AL</a>.</div>
 
 </details>
+
+![snake gif](https://github.com/analiceleite/analiceleite/blob/output/github-contribution-grid-snake.svg)
