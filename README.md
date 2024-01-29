@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/analiceleite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analiceleite&show_icons=true&theme=algolia&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analiceleite&show_icons=true&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analiceleite&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
