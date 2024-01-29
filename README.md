@@ -27,7 +27,7 @@
 </div>
 
 <h3 align ="left">Visitors Panel<h3>
-<p align="left"><img align="left" src="https://profile-counter.glitch.me/{Analice-Leite}/count.svg" /></p>
+<img width="250" src="https://komarev.com/ghpvc/?username=analiceleite&style=for-the-badge&label=Quantidade+de+visitas&color=87CEFA"/>
 
 <br>
 
