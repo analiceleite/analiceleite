@@ -7,7 +7,7 @@
     <span>Analice Leite</span>
 </h1>
 
-<p align="justify">I study to become a Full Stack developer with an emphasis on Front-End. I came from the commercial area where I worked for 4 years and along the way I discovered myself in the tech area, with the first "Hello World" in HTML and CSS. Today I am a systems dev, with knowledge, mainly in Django, VueJS, React, JavaScript and TypeScript, as well as SQL. Let's code!</a></p>
+<p align="justify">I study to become a Full Stack developer with an emphasis on Front-End. I came from the commercial area where I worked for 4 years and along the way I discovered myself in the tech area, with the first "Hello World" in HTML and CSS. Today I am a systems dev, with knowledge, mainly in Django, Java, VueJS, React, JavaScript and TypeScript, as well as SQL. Let's code!</a></p>
 
 
 <h3 align="left">Connect with me</h3>
