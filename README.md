@@ -4,11 +4,25 @@
 <h1>
     <a href="https://analiceleite.github.io/">
      <img align="center" alt="Logo Analice Leite" width="36px" src="https://user-images.githubusercontent.com/119526332/261872872-0f303185-3e6e-467b-aede-fac4a0448510.png"></a>
-    <span>Analice Leite</span>
+    <span>Hi, I am Analice Leite :D</span>
 </h1>
 
-<p align="justify">I study to become a Full Stack developer with an emphasis on Front-End. I came from the commercial area where I worked for 4 years and along the way I discovered myself in the tech area, with the first "Hello World" in HTML and CSS. Today I am a systems dev, with knowledge, mainly in Django, Java, VueJS, React, JavaScript and TypeScript, as well as SQL. Let's code!</a></p>
+* I'm working at @Bosch, as a Software Developer;
 
+* I'm graduated in Sistems Programming at SENAI-SC;
+
+* I'm graduating in Software Engineering at UNCISEUMAR-SC (EAD);
+
+* I'm graduating in Full Stack Developer at EBAC;
+
+* I like to learn about everything.
+
+* I believe that effort outweighs talent.
+
+<h3 align="left">Tech Stack</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,react,vue,angular,django,nextjs,mysql&perline=15" alt="My Skills">
+</a>
 
 <h3 align="left">Connect with me</h3>
 
