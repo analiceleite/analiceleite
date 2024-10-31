@@ -21,7 +21,7 @@
 
 <h3 align="left">Tech Stack</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,react,vue,angular,django,nextjs,mysql&perline=15" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=azure,docker,postgres,react,vue,angular,django,nextjs&perline=15" alt="My Skills">
 </a>
 
 <h3 align="left">Connect with me</h3>
@@ -29,8 +29,6 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=87CEFA&color:FFF)](mailto:analice.leite12@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=87CEFA&color:FFF)](https://www.linkedin.com/in/analice-leite-a3804a178/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=87CEFA&color:FFF)](https://www.instagram.com/analice.lte/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge)](https://www.dio.me/users/analice_leite12)   
-
 
 <h3 align="left">GitHub Stats</h3>
 
