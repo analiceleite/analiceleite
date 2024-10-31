@@ -4,7 +4,11 @@
 <h1>
     <a href="https://analiceleite.github.io/">
      <img align="center" alt="Logo Analice Leite" width="36px" src="https://user-images.githubusercontent.com/119526332/261872872-0f303185-3e6e-467b-aede-fac4a0448510.png"></a>
-    <span>Hi, I am Analice Leite :D</span>
+   <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=22&pause=1000&color=38A9E6&left=true&center=false&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I+am+Analice!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+</a>
+</div>
 </h1>
 
 * I'm working at @Bosch, as a Software Developer;
@@ -43,7 +47,7 @@
 
 <br>
 
-<picture align="center">
+<picture align="left">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/analiceleite/analiceleite/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/analiceleite/analiceleite/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/analiceleite/analiceleite/output/github-contribution-grid-snake.svg">
