@@ -3,7 +3,6 @@
 
 <h1>
     <a href="https://analiceleite.github.io/">
-     <img align="center" alt="Logo Analice Leite" width="36px" src="https://user-images.githubusercontent.com/119526332/261872872-0f303185-3e6e-467b-aede-fac4a0448510.png"></a>
    <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=22&pause=1000&color=38A9E6&left=true&center=false&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I+am+Analice!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
