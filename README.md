@@ -18,7 +18,7 @@
 
 * I'm graduating in Full Stack Developer at EBAC;
 
-* I like to learn about everything.
+* I like to learn about everything;
 
 * I believe that effort outweighs talent.
 
