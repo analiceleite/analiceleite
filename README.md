@@ -1,14 +1,12 @@
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://user-images.githubusercontent.com/119526332/261872014-15834e63-d307-4cbb-b17f-d494dcf56740.png">
 
-<h1>
-    <a href="https://analiceleite.github.io/">
-   <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=22&pause=1000&color=38A9E6&left=true&center=false&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Hi!+I+am+Analice!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-</a>
-</div>
+<h1 align="left">
+  <a href="https://analiceleite.github.io/" style="text-decoration: none; color: #38A9E6;">
+    ⊹ Hi! I am Analice! ˙ᵕ˙ ⊹
+  </a>
 </h1>
+
 
 * I'm working at @Bosch, as a Software Developer;
 
