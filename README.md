@@ -12,7 +12,7 @@
 
 * I'm graduated in Sistems Programming at SENAI-SC;
   
-* I'm graduated in Full Stack Developer at EBAC;
+* I'm graduated in Full Stack Development at EBAC;
   
 * I'm graduating in Analysis and Systems Development at Católica-SC (EAD);
 
