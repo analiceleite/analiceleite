@@ -16,6 +16,8 @@
   
 * I'm graduating in Analysis and Systems Development at Católica-SC (EAD);
 
+* I'm pursuing a Lato Sensu MBA in Software Architecture;
+
 * I like to learn about everything;
 
 * I believe that effort outweighs talent.
