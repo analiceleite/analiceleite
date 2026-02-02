@@ -24,7 +24,7 @@
 
 <h3 align="left">Tech Stack</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,postgres,django,spring,react,vue,angular&perline=15" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=angular,react,django,dotnet,docker,azure,postgres&perline=15" alt="My Skills">
 </a>
 
 <h3 align="left">Connect with me</h3>
