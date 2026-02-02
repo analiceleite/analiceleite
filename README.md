@@ -8,7 +8,7 @@
 </h1>
 
 
-* I'm working at @Bosch, as a Software Developer;
+* I'm working at @Bosch, as a Senior Digital Solutions Technician;
 
 * I'm graduated in Sistems Programming at SENAI-SC;
   
