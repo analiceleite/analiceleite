@@ -36,10 +36,7 @@
 <h3 align="left">GitHub Stats</h3>
 
 <div>
-  <a href="https://github.com/analiceleite">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analiceleite&show_icons=true&theme=algolia"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analiceleite&layout=compact&langs_count=7&theme=algolia"/>
-  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Comfortaa&preferLogin=false"><img  alt="analiceleite's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/analiceleite?cardType=level&theme=github-dark&fontFamily=Arial&preferLogin=false"/></a>
 </div>
 
 <h3 align ="left">Visitors Panel<h3>
