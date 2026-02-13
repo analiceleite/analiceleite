@@ -29,6 +29,7 @@
 <br/>
 
 <details>
+
 <summary><strong>More about me</strong></summary>
 
 <br/>

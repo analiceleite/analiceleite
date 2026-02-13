@@ -39,50 +39,31 @@ social:
 # Each arm spirals out from the center with its own color and tech items
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
-  - name: "Frontend"
+  - name: "Full Stack"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
       - "Angular"
       - "React"
-      - "Vue.js"
-      - "SCSS"
-      - "Tailwind"
-      - "Bootstrap"
-      - "Styled Components"
-      - "Clean Architecture"
-  - name: "Backend"
+      - "Node.js"
+      - "Django"
+      - ".NET"
+      - "PostgreSQL"
+  - name: "Architecture"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
-      - ".NET"
-      - "Spring Boot"
-      - "Java"
-      - "C#"
-      - "PHP"
-      - "PostgreSQL"
-      - "MySQL"
-  - name: "Quality & Testing"
+      - "Clean Architecture"
+      - "SOLID"
+      - "DDD"
+      - "System Design"
+      - "Design Documents"
+  - name: "DevOps"
     color: "axon_amber"
     items:
-      - "Jest"
-      - "Jasmine"
-      - "Cypress"
-      - "TDD"
-      - "Integration Testing"
-  - name: "DevOps & Integrations"
-    color: "synapse_cyan"
-    items:
-      - "Azure"
-      - "Azure DevOps"
       - "Docker"
-      - "Docker Compose"
-      - "Git"
-      - "GitHub"
-      - "REST APIs"
-      - "n8n"
-      - "Postman"
+      - "Azure"
+      - "GitHub Actions"
+      - "CI/CD"
+      - "Monitoring"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -92,16 +73,16 @@ galaxy_arms:
 projects:
   - repo: "analiceleite/dbmind_agent"
     arm: 0
-    description: "An intelligent database assistant that dynamically generates SQL queries and provides accurate answers based on company data. Built with Deno, React, and Zypher Agent, featuring real-time streaming chat and PostgreSQL integration."
+    description: "AI-powered database assistant that generates SQL and answers from company data."
   - repo: "analiceleite/tag_track"
-    arm: 1
-    description: "TagTrack is a comprehensive e-commerce management solution designed specifically for clothing retailers. It streamlines inventory management, order processing, customer communications, and business analytics in one powerful platform."
+    arm: 0
+    description: "E-commerce management platform for retailers that streamlines inventory, orders, and analytics."
   - repo: "analiceleite/tag_pomodoro"
-    arm: 1
-    description: "TagPomodoro is a productivity tool that helps users manage their time effectively using the Pomodoro Technique. It features task tracking, timers, and analytics to boost focus and efficiency, built with Angular, NodeJs and Electron."
+    arm: 0
+    description: "Pomodoro-based productivity app with task timers and usage analytics."
   - repo: "analiceleite/pv_mobile"
     arm: 0
-    description: "A complete mobile platform to connect the community with the church, offering access to live services, family group management, event scheduling, and contributions via PIX. Built with Flutter, Dart, and Firebase."
+    description: "Mobile app connecting communities with live services, groups, events, and payments."
     
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
