@@ -29,19 +29,15 @@
 <br/>
 
 <details>
+
 <summary><strong>More about me</strong></summary>
 
 <br/>
 
-User-centered solutions that prioritize the person who matters most — the user.
-Full Stack Developer with a front-end focus, building scalable platforms for
-customer service and marketing. Strong background in software architecture,
-technical quality, and performance-driven development.
+Building tools that make developers' lives easier.
+Passionate about distributed systems, developer experience, and the open-source ecosystem.
 
-Currently studying Analysis and Systems Development and pursuing a Lato Sensu
-MBA in Software Architecture.
-
-**Currently at** Bosch Service Solutions — Joinville, SC
+**Currently at** Stellar Labs — San Francisco, CA
 </details>
 
 <br/>
