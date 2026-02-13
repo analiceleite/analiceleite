@@ -18,6 +18,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
 
       - uses: actions/setup-python@v5
         with:
@@ -33,11 +36,19 @@ jobs:
         run: python -m generator.main
 
       - name: Commit and push if changed
+        env:
+          REPO: ${{ github.repository }}
+          TOKEN: ${{ secrets.STATS }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # configure auth using the provided token
+          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${REPO}.git
+          # fetch remote branch and rebase to integrate any upstream changes
+          git fetch origin main
+          git rebase origin/main || (git rebase --abort && echo 'Rebase failed; aborting push' && exit 1)
           git add assets/generated/
           if ! git diff --staged --quiet; then
             git commit -m "chore: update profile SVGs [skip ci]"
-            git push
+            git push origin HEAD:main
           fi
