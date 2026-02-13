@@ -49,14 +49,14 @@ MBA in Software Architecture.
 <br/>
 
 <div align="center">
-  <a href="analice.leite12@gmail.com">
+  <a href="mailto:analice.leite12@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/analice-leite">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://analice-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=portfolio&logoColor=29136b" alt="Portfolio"/>
+  <a href="https://analice-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
   </a>
 </div>
 
