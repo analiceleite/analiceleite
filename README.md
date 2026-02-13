@@ -33,8 +33,6 @@
 
 <br/>
 
-</details>
-
 User-centered solutions that prioritize the person who matters most — the user.
 Full Stack Developer with a front-end focus, building scalable platforms for
 customer service and marketing. Strong background in software architecture,
@@ -44,7 +42,6 @@ Currently studying Analysis and Systems Development and pursuing a Lato Sensu
 MBA in Software Architecture.
 
 **Currently at** Bosch Service Solutions — Joinville, SC
-</details>
 </details>
 
 <br/>

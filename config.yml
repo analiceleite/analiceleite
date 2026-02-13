@@ -73,16 +73,13 @@ galaxy_arms:
 projects:
   - repo: "analiceleite/dbmind_agent"
     arm: 0
-    description: "AI-powered database assistant that generates SQL and answers from company data."
+    description: "AI-powered database assistant"
   - repo: "analiceleite/tag_track"
     arm: 0
-    description: "E-commerce management platform for retailers that streamlines inventory, orders, and analytics."
+    description: "E-commerce management platform for retailers"
   - repo: "analiceleite/tag_pomodoro"
     arm: 0
-    description: "Pomodoro-based productivity app with task timers and usage analytics."
-  - repo: "analiceleite/pv_mobile"
-    arm: 0
-    description: "Mobile app connecting communities with live services, groups, events, and payments."
+    description: "Pomodoro-based productivity app with task timers"
     
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
