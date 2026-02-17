@@ -77,7 +77,7 @@ projects:
   - repo: "analiceleite/tag_track"
     arm: 0
     description: "E-commerce management platform for retailers"
-  - repo: "analiceleite/tag_pomodoro"
+  - repo: "analiceleite/focusflow"
     arm: 0
     description: "Pomodoro-based productivity app with task timers"
     
