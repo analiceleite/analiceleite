@@ -55,7 +55,7 @@ MBA in Software Architecture.
   <a href="https://www.linkedin.com/in/analice-leite">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=scaleway&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://analice-portfolio.vercel.app/">
+  <a href="https://analice-dev.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
   </a>
 </div>
