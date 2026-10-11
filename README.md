@@ -34,13 +34,17 @@
 
 <br/>
 
-User-centered solutions that prioritize the person who matters most — the user.
-Full Stack Developer with a front-end focus, building scalable platforms for
-customer service and marketing. Strong background in software architecture,
-technical quality, and performance-driven development.
+Full Stack Developer focused on .NET, Angular, backend architecture, Cloud/DevOps,
+and AI-assisted automation. I work on enterprise platforms and production-ready
+products with C#, TypeScript, GCP, Kubernetes, Terraform, CI/CD, Clean Architecture,
+DDD, and technical quality practices.
 
-Currently studying Analysis and Systems Development and pursuing a Lato Sensu
-MBA in Software Architecture.
+My goal is to grow into a strong mid-level (Pleno) developer role by building
+useful, reliable, and scalable software. I also develop real products such as
+Crissia, Worship Flow, FocusFlow, and DBMind Agent.
+
+Degree in Systems Analysis and Development and currently pursuing a Lato Sensu
+MBA in Software Architecture at Full Cycle.
 
 **Currently at** Bosch Service Solutions — Joinville, SC
 

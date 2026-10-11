@@ -15,25 +15,23 @@ username: analiceleite
 # Profile information displayed in the galaxy header
 profile:
   name: "Analice Leite"
-  tagline: "Full Stack Developer — Front-end Focused, Architecture & Performance"
+  tagline: "Full Stack Developer — .NET, Angular, Cloud & AI Automation"
   company: "Bosch Service Solutions"
   location: "Joinville, SC"
   bio: |
-    User-centered solutions: prioritizing the person who matters most — the user.
-    Full Stack Developer with a strong front-end focus, experienced in building
-    scalable platforms for customer service and marketing. Deep interest and
-    hands-on experience in architecture, technical quality, and performance-led
-    development.
+    Full Stack Developer focused on .NET, Angular, backend architecture, Cloud/DevOps,
+    and AI-assisted automation. Building enterprise platforms, production-ready products,
+    and reliable software with Clean Architecture, DDD, CI/CD, and strong technical quality.
   education: |
-    Currently studying Analysis and Systems Development. Pursuing a Lato Sensu
-    MBA in Software Architecture.
-  philosophy: '"Design and code for people — not just systems."'
+    Degree in Systems Analysis and Development. Currently pursuing a Lato Sensu
+    MBA in Software Architecture at Full Cycle.
+  philosophy: '"Build software that is useful, reliable, and ready to evolve."'
 
 # Social links displayed at the bottom of the profile
 social:
   email: "analice.leite12@gmail.com"
   linkedin: "analiceleite"
-  website: "https://analice-portfolio.vercel.app/"
+  website: "https://analice-dev.vercel.app/"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -42,11 +40,11 @@ galaxy_arms:
   - name: "Full Stack"
     color: "dendrite_violet"
     items:
-      - "Angular"
-      - "React"
-      - "Node.js"
-      - "Django"
       - ".NET"
+      - "C#"
+      - "Angular"
+      - "TypeScript"
+      - "Node.js"
       - "PostgreSQL"
   - name: "Architecture"
     color: "synapse_cyan"
@@ -59,11 +57,12 @@ galaxy_arms:
   - name: "DevOps"
     color: "axon_amber"
     items:
+      - "GCP"
+      - "Kubernetes"
+      - "Terraform"
       - "Docker"
-      - "Azure"
       - "GitHub Actions"
       - "CI/CD"
-      - "Monitoring"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -71,15 +70,18 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
+  - repo: "analiceleite/crissia"
+    arm: 0
+    description: "Multi-tenant SaaS for thrift stores"
+  - repo: "analiceleite/worship_flow"
+    arm: 0
+    description: "Production app for worship ministries"
   - repo: "analiceleite/dbmind_agent"
-    arm: 0
+    arm: 1
     description: "AI-powered database assistant"
-  - repo: "analiceleite/tag_track"
-    arm: 0
-    description: "E-commerce management platform for retailers"
   - repo: "analiceleite/focusflow"
-    arm: 0
-    description: "Pomodoro-based productivity app with task timers"
+    arm: 2
+    description: "SaaS-style productivity platform"
     
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
