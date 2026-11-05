@@ -1,65 +1,35 @@
-<!-- Galaxy Profile README Template
-     Customize this file with your own info, then rename it to README.md
-     in your GitHub profile repo (github.com/YOUR_USERNAME/YOUR_USERNAME).
-     The SVG paths below point to assets/generated/ which are auto-generated
-     by the GitHub Actions workflow or by running: python -m generator.main -->
-
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+  <img src="./assets/profile-header.svg" width="100%" alt="Analice Leite — Full Stack Developer working across software, systems, and product" />
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
+I started in tech as an apprentice and grew into an analyst. Today, I work at **Bosch Service Solutions**, building across the stack and learning how good engineering decisions hold up in real products.
 
-<br/>
+I care about the whole path: understanding the problem, shaping the system, shipping it, and making it easier to evolve. Alongside my work, I'm pursuing an MBA in **Software Architecture** at Full Cycle.
 
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
+### From the workbench
 
-<br/>
+**[Worship Flow](https://github.com/analiceleite/worship_flow)** · *In use*
 
-<div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
-</div>
+I conceived, designed, built, deployed, and maintain this product for worship teams. It brings songs, service schedules, roles, and reminders into one workflow. [Explore the demo](https://worship-flow-kappa.vercel.app/).
 
-<br/>
+**[Crissia](https://github.com/analiceleite/crissia)** · *Working demo*
 
-<details>
+A multi-tenant management product for thrift stores. I built it end to end, connecting inventory, sales, and shopping bags; the portfolio has a [demo to explore](https://crissia.site).
 
-<summary><strong>More about me</strong></summary>
+**[SecureOps Lab](https://github.com/analiceleite/secure_ops_lab)** · *Local lab*
 
-<br/>
+A security and operations learning project exploring MFA, access control, monitoring, and AI-assisted incident reports. It's a local proof of concept, not a production security platform.
 
-Full Stack Developer focused on .NET, Angular, backend architecture, Cloud/DevOps,
-and AI-assisted automation. I work on enterprise platforms and production-ready
-products with C#, TypeScript, GCP, Kubernetes, Terraform, CI/CD, Clean Architecture,
-DDD, and technical quality practices.
+### At my desk
 
-My goal is to grow into a strong mid-level (Pleno) developer role by building
-useful, reliable, and scalable software. I also develop real products such as
-Crissia, Worship Flow, FocusFlow, and DBMind Agent.
+`.NET` · `C#` · `Angular` · `TypeScript` · `GCP` · `Kubernetes` · `Terraform` · `PostgreSQL`
 
-Degree in Systems Analysis and Development and currently pursuing a Lato Sensu
-MBA in Software Architecture at Full Cycle.
+I also keep **Engineering Notes** on software architecture, system design, and the decisions that help software evolve. They're part of my [portfolio](https://analice-dev.vercel.app/).
 
-**Currently at** Bosch Service Solutions — Joinville, SC
+---
 
-</details>
+**Find me elsewhere:** [Portfolio](https://analice-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/analice-leite) · [Email](mailto:analice.leite12@gmail.com)
 
-<br/>
-
-<div align="center">
-  <a href="mailto:analice.leite12@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/analice-leite">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=scaleway&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://analice-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-080c14?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/>
-  </a>
-</div>
+<div align="right"><sub>Joinville, Brazil</sub></div>
