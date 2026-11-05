@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Analice Leite — Full Stack Developer working across software, systems, and product" />
+  <img src="./banner.jpg" width="100%" alt="Analice Leite — I build the whole thing. Design, Build, Ship." />
 </div>
 
 <br />
